@@ -6,6 +6,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20My%20Digital%20Space!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
+
+
+
+
+
 <h1 align="center">👋 Hey, I'm Dumeesha Tharukee</h1>
 <h3 align="center">Trainee Fullstack Developer</h3>
 <p align="center">
@@ -35,6 +40,7 @@
   <b>🛠 Experience:</b> Developing web and software projects using React.js, Java, Node.js, and Java Spring Boot,MYSQL and Mongo DB.<br>
   <b>🎉 Fun Fact:</b> I won Top 10 UI/UX Design Exhibition “Warna Pixel” at NDT University of Moratuwa! 🎨🏆
 </p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Coding GIF" width="400"/>
@@ -155,18 +161,3 @@ ________________________________________________________________________________
   <br><br>
   ⭐ Star my repositories if you find them helpful!
 </div>
-
-<!--
-**dumeeshatharukee/dumeeshatharukee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
