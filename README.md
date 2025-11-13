@@ -1,4 +1,11 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Dumeesha+Tharukee;Software+Engineer+%7C+Automation+Enthusiast;Lifelong+Learner+%7C+Fullstack+Developer;Building+Smarter+Systems+with+Code+%26+AI" alt="Typing SVG" />
+</div>
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20My%20Digital%20Space!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</div>
+
 
 <!--
 **dumeeshatharukee/dumeeshatharukee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
